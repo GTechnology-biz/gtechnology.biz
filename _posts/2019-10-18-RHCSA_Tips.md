@@ -1,3 +1,8 @@
+---
+layout: post
+title: RHCSA Tips
+---
+
 - Setup your own lab within vmware/virtualbox
   - Use CentOS 7 or download free copy of RHEL from redhat
 
