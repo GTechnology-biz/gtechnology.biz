@@ -7,7 +7,7 @@ theme: jekyll-theme-tactile
 name: GTechnology
 
 # Short bio or description (displayed in the header)
-description: 3
+description: ¯\_(ツ)_/¯ 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/GTechnology-biz/gtechnology.biz/master/images/180982.png
@@ -53,7 +53,7 @@ baseurl: "/gtechnology.biz/"
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
