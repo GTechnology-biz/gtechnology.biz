@@ -7,7 +7,7 @@ theme: jekyll-theme-tactile
 name: GTechnology
 
 # Short bio or description (displayed in the header)
-description: ...2
+description: 3
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/GTechnology-biz/gtechnology.biz/master/images/180982.png
@@ -22,7 +22,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: GTechnology-biz/gtechnology.biz
+  github: GTechnology-biz
   instagram:
   linkedin:
   pinterest:
