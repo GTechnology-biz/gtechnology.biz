@@ -8,10 +8,10 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="date">
-        Written on {{ post.date | date: "%B %e, %Y" }}
+        Posted: {{ post.date | date: "%B %e, %Y" }}
        </div>
 
-      <div class="entry" style="height:200px; overflow:hidden; text-overflow:ellipsis">
+      <div class="entry" style="height:190px; overflow:hidden; text-overflow:ellipsis">
         {{ post.content }}
       </div>
     </article>
